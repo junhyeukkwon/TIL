@@ -58,8 +58,7 @@ public class LinkedListTest {
 		
 		//연결리스트의 맨 뒤 요소 삭제 후 해당 요소를 출력
 		System.out.println(myList.removeLast());
-		System.out.println(
-myList);
+		System.out.println(myList);
 	}
 }
 ```
