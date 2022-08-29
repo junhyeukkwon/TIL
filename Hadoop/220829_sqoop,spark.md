@@ -242,6 +242,7 @@ CREATE VIEW apt_view2 AS select split(sigungu, " ")[0] as si, split(sigungu, " "
 ![image](https://user-images.githubusercontent.com/85923524/187201585-8b570fb0-210a-453d-b6c9-8bcd2ceda1a8.png)
 ![image](https://user-images.githubusercontent.com/85923524/187201715-64d99a1a-3159-47f6-921f-52f146639ed2.png)
 
+[subway_notebook](https://github.com/junhyeukkwon/TIL/blob/main/Hadoop/subway_datahandling.ipynb)
 # Hadoop, sqoop
 ## sqoop
 하둡과 관계형 데이터데이스 간에 데이터를 전송할 수 있도록 설계된 오픈소스 소프트웨어 이다.
